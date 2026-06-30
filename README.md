@@ -1,0 +1,2 @@
+# Wscript
+server script
